@@ -1,0 +1,22 @@
+{
+  "name": "mochatesting",
+  "version": "1.0.0",
+  "description": "Mocha unit testing example",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "jsdom-global": "3.0.2",
+    "mocha": "^7.1.1",
+    "mocha-jsdom": "^2.0.0"
+  },
+  "dependencies": {
+    "jquery": "^3.5.1",
+    "jsdom": "^10.0.0",
+    "sinon": "^9.0.2"
+  }
+}
