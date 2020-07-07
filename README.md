@@ -22,3 +22,6 @@ npm i chai-http --save-dev
 <br>
 <br>
 
+We have created a Sonar project for this as well
+<br>
+Start sonar cube server and run sonar scanner to see the Sonar project in browser.
